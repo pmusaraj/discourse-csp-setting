@@ -1,9 +1,8 @@
 {
-  "name": "CSP setting",
-  "about_url": null,
-  "license_url": null,
-  "assets": {
-  },
-  "color_schemes": {
-  }
+	"name": "CSP setting",
+	"about_url": null,
+	"license_url": null,
+	"component": true,
+	"assets": {},
+	"color_schemes": {}
 }
